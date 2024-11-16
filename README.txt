@@ -1,4 +1,4 @@
-THE SUPREME CODING - README
+Coding Snakes - README
 
 Welcome to "Coding Snakes"! This is a personal webpage where I share my favorite coding websites, tools, and files to inspire you for your next project.
 
