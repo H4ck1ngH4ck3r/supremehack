@@ -1,6 +1,6 @@
 THE SUPREME CODING - README
 
-Welcome to "The Supreme Coding"! This is a personal webpage where I share my favorite coding websites, tools, and files to inspire you for your next project.
+Welcome to "Coding Snakes"! This is a personal webpage where I share my favorite coding websites, tools, and files to inspire you for your next project.
 
 Contents:
 1. Python Section:
@@ -11,7 +11,6 @@ Contents:
 Features:
 - The webpage includes links to useful resources for Python programming and Raspberry Pi projects.
 - It uses a fun, pixel-style font for a retro "hacking" aesthetic.
-- A background image from Minecraft's official website is used to give it a cool vibe.
 
 Instructions:
 1. To open any of the links, click on them. They will open in a new tab for convenience.
